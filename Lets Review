@@ -1,0 +1,6 @@
+from __future__ import print_function
+total = int(input())
+for i in range(total):
+    strng = str(input())
+    print(s[::2], end = " ")
+    print(s[1::2])
